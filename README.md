@@ -3,6 +3,8 @@
 - [Project Overview](#project-overview)
 - [Data Sources](#data-sources)
 - [Tools](#tools)
+
+# ![image](https://github.com/ayeshabin-nikhath/Data-Analyst-Python-Projects/assets/169986364/4aaf3202-321f-408d-ae07-2acbed87f67e)
   
 ## Project Overview
 
